@@ -1,0 +1,2 @@
+This is a test file for program number 7.
+The content of this file will be copied to another file.
