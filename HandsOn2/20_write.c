@@ -14,7 +14,7 @@ Date: 09th Oct, 2023.
 int main() {
 	int fd;
 	char buff[80];
-	fd = open("myfifo",O_WRONLY);
+	fd = open("20_fifo",O_WRONLY);
 	printf("Enter the text:");
 	scanf(" %[^\n]", buff);
 	write(fd, buff, sizeof(buff));
