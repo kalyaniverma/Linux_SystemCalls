@@ -14,7 +14,7 @@ Date: 09th Oct, 2023.
 int main() {
 	int fd;
 	char buff[80];
-	fd = open("myfifo", O_RDONLY);
+	fd = open("20_fifo", O_RDONLY);
 	read(fd, buff, sizeof(buff));
 	printf("The text from FIFO file: %s\n", buff);
 }
