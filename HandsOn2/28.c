@@ -2,7 +2,7 @@
 =======================================================================================================================================
 Name : 28.c
 Author : Kalyani Verma
-Description : Write a program to change the exiting message queue permission (use msqid_ds structure)
+Description : Write a program to change the existing message queue permission (use msqid_ds structure)
 Date: 10th Oct, 2023.
 =======================================================================================================================================
 */
