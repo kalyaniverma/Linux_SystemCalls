@@ -1,6 +1,6 @@
 /*
 =======================================================================================================================================
-Name : 22.c
+Name : 22_read.c
 Author : Kalyani Verma
 Description : Write a program to wait for data to be written into FIFO within 10 seconds, use select system call with FIFO.
 Date: 10th Oct, 2023.
