@@ -1,9 +1,9 @@
 /*
 =======================================================================================================================================
-Name : 20_write.c
+Name : 22_write.c
 Author : Kalyani Verma
-Description : Write two programs so that both can communicate by FIFO -Use one way communication.
-Date: 09th Oct, 2023.
+Description : Write a program to wait for data to be written into FIFO within 10 seconds, use select system call with FIFO.
+Date: 10th Oct, 2023.
 =======================================================================================================================================
 */
 
